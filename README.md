@@ -1,5 +1,5 @@
 # SFFoodTrucks
-[Site](http://foodtrucks-in-sf.herokuapp.com/)
+Hosted on [Heroku](http://foodtrucks-in-sf.herokuapp.com/)
 
 #Challenge
 Create a service that tells the user what types of food trucks might be found near a specific location on a map.
