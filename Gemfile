@@ -10,6 +10,8 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'bootstrap'
+gem 'rubocop', '~> 0.41.1', require: false
+gem 'simplecov', :require => false, :group => :test
 
 group :development, :test do
   gem 'byebug'
