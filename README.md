@@ -4,7 +4,7 @@ Hosted on [Heroku](http://foodtrucks-in-sf.herokuapp.com/)
 #Challenge
 Create a service that tells the user what types of food trucks might be found near a specific location on a map.
 
-#Solution:
+#Solution
 As a prototype, this application focuses more on front-end design and leverages the [CartoDB](https://cartodb.com/) mapping platform to illustrate the dataset made available through [SF OpenData](https://data.sfgov.org/). For additional design considerations, Bootstrap and Google Fonts were utilized.
 
 I chose Rails for the backend for speed of set up and familiarity with the stack. [Rubocop](https://github.com/bbatsov/rubocop),  [Simplecov](https://github.com/colszowka/simplecov) and [Brakeman](https://github.com/presidentbeef/brakeman) were utilized for linting, test coverage and security analysis respectively.
